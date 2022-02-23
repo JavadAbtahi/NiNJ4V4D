@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Javad Abtahi
+- 👋 Hi, I’m Seyed Javad Abtahi
 - 👀 I’m interested in tech, gadgets, cars, space, engineering and a game lover
 - 🌱 I’m currently learning software development
+
+
+
 - Its honor for me if you colaborate with the projects and I will appreciate your valuable efforts.
 
 <!---
